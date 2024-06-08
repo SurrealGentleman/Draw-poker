@@ -1,0 +1,13 @@
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\bin\Debug\DrawPoker.exe.config
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\bin\Debug\DrawPoker.exe
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\bin\Debug\DrawPoker.pdb
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\obj\Debug\DrawPoker.csproj.AssemblyReference.cache
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\obj\Debug\DrawPoker.csproj.SuggestedBindingRedirects.cache
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\obj\Debug\DrawPoker.Properties.Resources.resources
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\obj\Debug\DrawPoker.StartForm.resources
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\obj\Debug\DrawPoker.csproj.GenerateResource.cache
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\obj\Debug\DrawPoker.csproj.CoreCompileInputs.cache
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\obj\Debug\DrawPoker.exe
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\obj\Debug\DrawPoker.pdb
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\obj\Debug\DrawPoker.CreatePlayerForm.resources
+C:\D2\VS\new\RTIPPO\DrawPoker\DrawPoker\obj\Debug\DrawPoker.GameScreenForm.resources
